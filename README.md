@@ -9,3 +9,8 @@ Usage:
 python poc_aug3.py <host> <username> <password> <command>
 ```
 
+Creds:
+
+- ProxyShell PoC script from: https://blog.viettelcybersecurity.com/pwn2own-2021-microsoft-exchange-exploit-chain/
+
+- Gtsc's blog post
