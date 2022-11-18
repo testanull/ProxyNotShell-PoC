@@ -14,3 +14,5 @@ Creds:
 - ProxyShell PoC script from: https://blog.viettelcybersecurity.com/pwn2own-2021-microsoft-exchange-exploit-chain/
 
 - Gtsc's blog post
+
+- https://www.zerodayinitiative.com/blog/2022/11/14/control-your-types-or-get-pwned-remote-code-execution-in-exchange-powershell-backend
